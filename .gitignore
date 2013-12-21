@@ -1,4 +1,9 @@
-/nbproject/
+/nbproject/genfiles.properties  
+
+/nbproject/private/
+/nbproject/project.properties
+/nbproject/project.xml
+
 manifest.mf
 README.md
 /build/
