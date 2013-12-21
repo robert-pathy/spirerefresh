@@ -2,3 +2,6 @@
 build.xml
 manifest.mf
 README.md
+/build/
+/dist/lib/
+/dist/README.TXT
